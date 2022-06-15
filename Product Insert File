@@ -1,0 +1,139 @@
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Gold Badminton Shuttlecock',
+                'The Best Badminton Shuttlecock',
+                '24.00',
+                '100'); -- 1
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Champion 1 Badminton Shuttlecock',
+                'Tour Badminton Shuttlecock',
+                '28.00',
+                '100');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Li-Ning Windstorm 600',
+                'Badminton Racquet (White Tiger) Unstrung',
+                '150.00',
+                '100');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Protein Whey',
+                'protein supplement',
+                '2000.00',
+                '2');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Baseball bat',
+                'guaranteed to get a homerun',
+                '40.00',
+                '10');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('ASUS Laptop',
+                'touch screen with graphics from 2030',
+                '800.00',
+                '5');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Yonex Astorx 99 Pro',
+                'Badminton Racquet (White Tiger) Unstrung',
+                '245.00',
+                '30');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Yonex Astrox 100ZZ',
+                'Badminton Racquet (Kurenai) Unstrung',
+                '245.00',
+                '50');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Yonex Astrox 88D Pro',
+                'Badminton Racquet (Camel Gold) Unstrung',
+                '245.00',
+                '15');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Yonex Astrox 88S Pro',
+                'Badminton Racquet (Emerald Blue) Unstrung',
+                '245.00',
+                '10');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Yonex Voltric Z Force II 2',
+                'Badminton Racket Unstrung',
+                '225.00',
+                '15');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('YONEX Arcsaber 11 Pro 4U5 ',
+                'Badminton Racquet Unstrung',
+                '235.00',
+                '10');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Auraspeed 98K',
+                'Badminton Racket Unstrung ',
+                '230.00',
+                '15');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('LI NING AERONAUT 6000D ',
+                'Badminton Racket Unstrung',
+                '210.00',
+                '30');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('VICTOR JETSPEED JS12 II',
+                'Badminton Racket Unstrung',
+                '225.00',
+                '13');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('YONEX NANOFLARE 800',
+                'Badminton Racket Unstrung',
+                '240.00',
+                '20');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Thruster F',
+                'Badminton Racket Unstrung',
+                '245.00',
+                '10');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Bravesword 12',
+                'Badminton Racket Unstrung',
+                '249.99',
+                '35');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor Auraspeed 90S',
+                'Badminton Racket Unstrung',
+                '195.00',
+                '15');
+
+INSERT INTO Product 
+        (PROD_NAME,PROD_DESC,PROD_PRICE,PROD_QTY)
+        VALUES ('Victor DriveX 9X',
+                'Badminton Racket Unstrung',
+                '210.00',
+                '20');
